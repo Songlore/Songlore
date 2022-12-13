@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Elizabeth. I go by the handle Songlore.</h1>
-<h3 align="center">An Accountant who dabbles in programming</h3>
+<h3 align="center">Aspiring React Native Developer</h3>
 
-- 🌱 I’m currently learning on youtube about python, object oriented programming, algorithms and data structures. **python, ren.py**
+- 🌱 I’m currently learning about react native on udemy, coursera (react native certification from meta), youtube tutorials and personal projects.
 
 - 📫 How to reach me **elizabeth.ashley.flack@gmail.com**
 
@@ -15,9 +15,19 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=songlore&show_icons=true&locale=en&layout=compact" alt="songlore" /></p>
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=songlore&show_icons=true&locale=en&layout=compact" alt="songlore" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=songlore&show_icons=true&locale=en" alt="songlore" /></p>
+<p>
+&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=songlore&show_icons=true&locale=en" alt="songlore" />
+</p>
 
