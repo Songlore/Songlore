@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Elizabeth. I go by the handle Songlore.</h1>
-<h3 align="center">Aspiring React Native Developer</h3>
+<h3 align="center">Aspiring Programmer</h3>
 
-- 🌱 I’m currently learning about react native on udemy, coursera (react native certification from meta), youtube tutorials and personal projects.
+- 🌱 I’m currently learning about programming by study Meta certifications on Coursera.
 
 - 📫 How to reach me **elizabeth.ashley.flack@gmail.com**
 
