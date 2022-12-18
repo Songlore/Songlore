@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Elizabeth. I go by the handle Songlore.</h1>
 <h3 align="center">Aspiring Programmer</h3>
 
-- 🌱 I’m currently learning about programming by study Meta certifications on Coursera.
+- 🌱 I’m currently learning about programming by studying Meta programming certifications on Coursera.
 
 - 📫 How to reach me **elizabeth.ashley.flack@gmail.com**
 
