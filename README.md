@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning about programming by studying Meta programming certifications on Coursera.
 
-- 📫 How to reach me **elizabeth.ashley.flack@gmail.com**
-
 - 📄 Know about my experiences [elizabethflack.com](elizabethflack.com)
 
 <h3 align="left">Connect with me:</h3>
