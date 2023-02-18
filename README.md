@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning about programming by studying Meta programming certifications on Coursera.
 
-- 📄 Know about my experiences [elizabethflack.com](elizabethflack.com)
-
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
