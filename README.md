@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Elizabeth. I go by the handle Songlore.</h1>
-<h3 align="center">Accountant who dabbles in Programming</h3>
+<h3 align="center">Aspiring Programmer</h3>
 
-- 🌱 I’m currently learning about data analytics by studying Google Data Analytics on Coursera
+- 🌱 I’m currently learning about MySQL on udemy
 
 <h3 align="left">Connect with me:</h3>
 
